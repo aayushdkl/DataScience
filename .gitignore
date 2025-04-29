@@ -1,0 +1,17 @@
+# Python virtual environments
+ds-env/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
+
+# Processed data (optional, if you don’t want to upload cleaned data)
+# */data/processed/*
