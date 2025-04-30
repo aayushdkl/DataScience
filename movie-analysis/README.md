@@ -6,7 +6,7 @@ A data science project to explore a dataset of movie ratings, analyze trends, an
 
 This project uses a small dataset of movie ratings to perform exploratory data analysis (EDA). It includes visualizations like bar charts and histograms to understand genre popularity and rating trends. The project is built using Python, Jupyter Notebooks, and a virtual environment for reproducibility.
 
-**Author**: Ayush  
+**Author**: Aayush Dhakal
 **Date**: April 29, 2025
 
 ## Folder Structure

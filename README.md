@@ -2,7 +2,7 @@
 
 This repository contains a collection of my data science projects, each organized in its own subfolder. Each project includes datasets, Jupyter Notebooks, Python scripts, and documentation for exploratory data analysis (EDA), visualizations, and more. This portfolio showcases my skills in data manipulation, visualization, and analysis using Python.
 
-**Author**: Ayush  
+**Author**: Aayush Dhakal
 **Created**: April 29, 2025  
 **GitHub**: [aayushdkl](https://github.com/aayushdkl)
 
