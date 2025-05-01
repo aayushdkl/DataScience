@@ -15,12 +15,11 @@ This project focuses on debugging a sales data workflow that has encountered iss
   - `raw/`: Contains the raw dataset (`sales.csv`).
   - `processed/`: Stores cleaned datasets (empty for now).
 - `notebooks/`: Jupyter Notebooks for analysis and debugging.
-  - `debug_sales_workflow.ipynb`: Notebook for testing and debugging the `load_and_check()` function.
+  - `notebook.ipynb`: Notebook for testing and debugging the `load_and_check()` function.
 - `scripts/`: Python scripts for data processing.
-  - `sales_pipeline.py`: Contains the `load_and_check()` function (to be debugged).
 - `requirements.txt`: List of Python dependencies.
 - `README.md`: This file, describing the project.
-- `redpopcorn.jpg`: Image used for visual context in the notebook or documentation.
+- `binary.jpg`: Image used for visual context in the notebook or documentation.
 
 ## Dataset
 
